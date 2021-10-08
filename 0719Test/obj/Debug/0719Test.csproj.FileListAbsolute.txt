@@ -1,0 +1,10 @@
+C:\Users\RainbowRMrose\Desktop\0719Test\0719Test\bin\Debug\0719Test.dll
+C:\Users\RainbowRMrose\Desktop\0719Test\0719Test\bin\Debug\0719Test.pdb
+C:\Users\RainbowRMrose\Desktop\0719Test\0719Test\bin\Debug\Intel.Unite.Common.dll
+C:\Users\RainbowRMrose\Desktop\0719Test\0719Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\RainbowRMrose\Desktop\0719Test\0719Test\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\RainbowRMrose\Desktop\0719Test\0719Test\obj\Debug\0719Test.csproj.AssemblyReference.cache
+C:\Users\RainbowRMrose\Desktop\0719Test\0719Test\obj\Debug\0719Test.csproj.CoreCompileInputs.cache
+C:\Users\RainbowRMrose\Desktop\0719Test\0719Test\obj\Debug\0719Test.csproj.CopyComplete
+C:\Users\RainbowRMrose\Desktop\0719Test\0719Test\obj\Debug\0719Test.dll
+C:\Users\RainbowRMrose\Desktop\0719Test\0719Test\obj\Debug\0719Test.pdb
